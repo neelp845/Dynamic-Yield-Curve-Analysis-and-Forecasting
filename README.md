@@ -4,6 +4,7 @@
 This project focuses on the dynamic analysis and forecasting of yield curves using Principal Component Analysis (PCA) and Autoregressive (AR) models. The aim is to understand the behavior of yield curves over time, predict future movements, and perform stress testing to assess the robustness of the models.
 
 ## Data Collection
+https://www.ecb.europa.eu/stats/financial_markets_and_interest_rates/euro_area_yield_curves/html/index.en.html
 
 ## Methodology
 ### Principal Component Analysis (PCA)
